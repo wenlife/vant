@@ -16,3 +16,6 @@ dist
 changelog.generated.md
 test/coverage
 vetur
+
+# test
+**/test/coverage
